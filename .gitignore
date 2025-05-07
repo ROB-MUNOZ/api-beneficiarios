@@ -1,16 +1,4 @@
-# Ignora el entorno virtual
-venv/
-
-# Ignora archivos temporales de Python
-__pycache__/
-*.py[cod]
-
-# Ignora archivos de configuración local
 .env
-
-# Ignora bases de datos locales (por si usas SQLite alguna vez)
-*.db
-
-# Ignora logs y backups temporales
-*.log
-*.bak
+venv/
+__pycache__/
+*.pyc
